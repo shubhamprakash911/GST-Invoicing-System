@@ -1,0 +1,25 @@
+{
+  "name": "gst-invoicing-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamprakash911/GST-Invoicing-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamprakash911/GST-Invoicing-System/issues"
+  },
+  "homepage": "https://github.com/shubhamprakash911/GST-Invoicing-System#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "firebase-admin": "^13.1.0",
+    "firebase-functions": "^6.3.2"
+  }
+}
